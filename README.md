@@ -1,5 +1,6 @@
-**EagleX DDoS Tool - Aggressive 💥**
+![Screenshot from 2025-01-10 16-47-43](https://github.com/user-attachments/assets/c15fbe6e-9bc3-4ef0-b8bb-67223bdc87d0)
 
+**Eaglex Ddos 🔥**
 **Key Features:**
 - **5 Attack Types**:
   1. **HTTP Bombing**: Send massive HTTP requests.
@@ -22,6 +23,6 @@
 
 **Use Responsibly**: Only for **educational** purposes or on **your own servers**.
 
-**Note**: Unauthorized use is **illegal**.
+**Note**: **USE IT ON RDP BECAUSE THIS TOOL CAN HARM YOUR LINUX****.
 
-soon we'll release it
+**soon we'll release it**
